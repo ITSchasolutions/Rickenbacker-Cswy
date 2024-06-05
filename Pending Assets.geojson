@@ -1,0 +1,455 @@
+ {
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "intersectionId": "25.6993_-80.1622",
+        "status": "pending",
+        "mapVersion": "20240301"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.16216707500001,
+          25.699335125000005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "intersectionId": "25.7336_-80.1623",
+        "status": "pending",
+        "mapVersion": "20240301"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.16233225,
+          25.733603450000004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "intersectionId": "25.7378_-80.1670",
+        "status": "pending",
+        "mapVersion": "20240301"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1669645,
+          25.737781000000002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "intersectionId": "25.7399_-80.2215",
+        "status": "pending",
+        "mapVersion": "20240301"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.221491,
+          25.739931000000002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "intersectionId": "25.7477_-80.2100",
+        "status": "pending",
+        "mapVersion": "20240301"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2099891,
+          25.747672100000003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "intersectionId": "25.7554_-80.2082",
+        "status": "pending",
+        "mapVersion": "20240301"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.20817922500001,
+          25.755401150000004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "intersectionId": "25.7559_-80.1959",
+        "status": "pending",
+        "mapVersion": "20240301"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.19589830000001,
+          25.75585905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "intersectionId": "25.7580_-80.1929",
+        "status": "pending",
+        "mapVersion": "20240301"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.192887475,
+          25.757978675000004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "intersectionId": "25.7592_-80.1950",
+        "status": "pending",
+        "mapVersion": "20240301"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1950383,
+          25.759219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "intersectionId": "25.7604_-80.1922",
+        "status": "pending",
+        "mapVersion": "20240301"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.19221665,
+          25.7603626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "intersectionId": "25.7617_-80.1919",
+        "status": "pending",
+        "mapVersion": "20240301"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.19183630000002,
+          25.761739633333335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "intersectionId": "25.7642_-80.1912",
+        "status": "pending",
+        "mapVersion": "20240301"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.19121805,
+          25.764202700000002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "intersectionId": "25.7662_-80.1907",
+        "status": "pending",
+        "mapVersion": "20240301"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.19069900000001,
+          25.766170650000003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "intersectionId": "25.7662_-80.1991",
+        "status": "pending",
+        "mapVersion": "20240301"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1990954,
+          25.766246000000002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "intersectionId": "25.7670_-80.1904",
+        "status": "pending",
+        "mapVersion": "20240301"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1904714,
+          25.767067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "intersectionId": "25.7672_-80.1991",
+        "status": "pending",
+        "mapVersion": "20240301"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1991259,
+          25.767207000000003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "intersectionId": "25.7673_-80.1947",
+        "status": "pending",
+        "mapVersion": "20240301"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.19471970000001,
+          25.767336200000003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "intersectionId": "25.7673_-80.1958",
+        "status": "pending",
+        "mapVersion": "20240301"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1957785,
+          25.767306700000002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "intersectionId": "25.7673_-80.1975",
+        "status": "pending",
+        "mapVersion": "20240301"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1974751,
+          25.7672552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "intersectionId": "25.7674_-80.1928",
+        "status": "pending",
+        "mapVersion": "20240301"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.19277790000001,
+          25.7673965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "intersectionId": "25.7674_-80.1934",
+        "status": "pending",
+        "mapVersion": "20240301"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1933412,
+          25.767378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "intersectionId": "25.7675_-80.1949",
+        "status": "pending",
+        "mapVersion": "20240301"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.19493750000001,
+          25.7674732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "intersectionId": "25.7870_-80.1891",
+        "status": "pending",
+        "mapVersion": "20240301"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.18910580000001,
+          25.7870306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "intersectionId": "25.7883_-80.1892",
+        "status": "pending",
+        "mapVersion": "20240301"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1891547,
+          25.7882597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "intersectionId": "25.7855_-80.1892",
+        "status": "pending",
+        "mapVersion": "20240301"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.18918945,
+          25.785509500000003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "intersectionId": "25.7895_-80.1891",
+        "status": "pending",
+        "mapVersion": "20240301"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1890942,
+          25.789543300000002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "intersectionId": "25.7896_-80.1872",
+        "status": "pending",
+        "mapVersion": "20240301"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.18719200000001,
+          25.789603200000002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "intersectionId": "25.7870_-80.1907",
+        "status": "pending",
+        "mapVersion": "20240301"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1906711,
+          25.787001500000002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "intersectionId": "25.7848_-80.1906",
+        "status": "pending",
+        "mapVersion": "20240301"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.19063410000001,
+          25.7848499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "intersectionId": "25.7856_-80.1907",
+        "status": "pending",
+        "mapVersion": "20240301"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.190667,
+          25.78561725
+        ]
+      }
+    }
+  ]
+}
