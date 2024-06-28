@@ -1554,5 +1554,5 @@
 {"type":"Feature","geometry":{"type":"LineString","coordinates":[[-80.304177,25.286052]]},"properties":{"direction":"E","id":464119208,"street":"Card Sound Rd","zip":33037,"miles":0.311189360373213,"lanes":1}},
 {"type":"Feature","geometry":{"type":"LineString","coordinates":[[-80.304177,25.286052],[-80.30361,25.286152]]},"properties":{"direction":"E","id":464119208,"street":"Card Sound Rd","zip":33037,"miles":0.311189360373213,"lanes":1}},
 {"type":"Feature","geometry":{"type":"LineString","coordinates":[[-80.304177,25.286052],[-80.30361,25.286152],[-80.303218,25.286208]]},"properties":{"direction":"E","id":464119208,"street":"Card Sound Rd","zip":33037,"miles":0.311189360373213,"lanes":1}},
-{"type":"Feature","geometry":{"type":"LineString","coordinates":[[-80.304177,25.286052],[-80.30361,25.286152],[-80.303218,25.286208],[-80.30296849,25.28623994]]},"properties":{"direction":"E","id":464119208,"street":"Card Sound Rd","zip":33037,"miles":0.311189360373213,"lanes":1}},
+{"type":"Feature","geometry":{"type":"LineString","coordinates":[[-80.304177,25.286052],[-80.30361,25.286152],[-80.303218,25.286208],[-80.30296849,25.28623994]]},"properties":{"direction":"E","id":464119208,"street":"Card Sound Rd","zip":33037,"miles":0.311189360373213,"lanes":1}}
 ]}
