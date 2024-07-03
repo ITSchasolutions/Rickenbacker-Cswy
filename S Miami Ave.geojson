@@ -1,0 +1,17 @@
+{
+"type": "FeatureCollection",
+"name": "S Miami Ave",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "102+52094", "tessellate": 1, "extrude": 0, "visibility": -1 }, "geometry": { "type": "LineString", "coordinates": [ [ -80.216571337654429, 25.743053837853981, 0.0 ], [ -80.206589886805872, 25.75001564827852, 0.0 ] ] } },
+{ "type": "Feature", "properties": { "Name": "102P52094", "tessellate": 1, "extrude": 0, "visibility": -1 }, "geometry": { "type": "LineString", "coordinates": [ [ -80.206585681413586, 25.750013468032389, 0.0 ], [ -80.205975511853353, 25.750434523690782, 0.0 ] ] } },
+{ "type": "Feature", "properties": { "Name": "102+11667", "tessellate": 1, "extrude": 0, "visibility": -1 }, "geometry": { "type": "LineString", "coordinates": [ [ -80.205974008299293, 25.75044009193088, 0.0 ], [ -80.204799766739924, 25.75130120300167, 0.0 ] ] } },
+{ "type": "Feature", "properties": { "Name": "102P11667", "tessellate": 1, "extrude": 0, "visibility": -1 }, "geometry": { "type": "LineString", "coordinates": [ [ -80.204793840052034, 25.751299256122682, 0.0 ], [ -80.2043297736016, 25.75161403636579, 0.0 ] ] } },
+{ "type": "Feature", "properties": { "Name": "102+11320", "tessellate": 1, "extrude": 0, "visibility": -1 }, "geometry": { "type": "LineString", "coordinates": [ [ -80.204331480806871, 25.751610084854129, 0.0 ], [ -80.204141829229414, 25.751751806564371, 0.0 ], [ -80.204020300810839, 25.75176449854656, 0.0 ], [ -80.203671970939723, 25.752011991500819, 0.0 ], [ -80.194227293181697, 25.758550320419641, 0.0 ] ] } },
+{ "type": "Feature", "properties": { "Name": "102-11667", "tessellate": 1, "extrude": 0, "visibility": -1 }, "geometry": { "type": "LineString", "coordinates": [ [ -80.194295775966665, 25.758610989737221, 0.0 ], [ -80.204087363032912, 25.75188419927791, 0.0 ], [ -80.204134540789539, 25.75180073181583, 0.0 ], [ -80.204338181782731, 25.75166867095243, 0.0 ] ] } },
+{ "type": "Feature", "properties": { "Name": "102N11667", "tessellate": 1, "extrude": 0, "visibility": -1 }, "geometry": { "type": "LineString", "coordinates": [ [ -80.204796815474936, 25.75137213819362, 0.0 ], [ -80.20435340341362, 25.75165962707818, 0.0 ] ] } },
+{ "type": "Feature", "properties": { "Name": "102-52094", "tessellate": 1, "extrude": 0, "visibility": -1 }, "geometry": { "type": "LineString", "coordinates": [ [ -80.204799873347923, 25.751377771091359, 0.0 ], [ -80.206034993647805, 25.750484735608939, 0.0 ] ] } },
+{ "type": "Feature", "properties": { "Name": "102N52094", "tessellate": 1, "extrude": 0, "visibility": -1 }, "geometry": { "type": "LineString", "coordinates": [ [ -80.206032255684633, 25.750491784964641, 0.0 ], [ -80.206656546459968, 25.75004499719234, 0.0 ] ] } },
+{ "type": "Feature", "properties": { "Name": "102-52093", "tessellate": 1, "extrude": 0, "visibility": -1 }, "geometry": { "type": "LineString", "coordinates": [ [ -80.206651553615885, 25.750056643328829, 0.0 ], [ -80.216602087108058, 25.74313670545142, 0.0 ] ] } }
+]
+}
